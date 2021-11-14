@@ -1,4 +1,4 @@
-package guru.qa.distll;
+package guru.qa.distill;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,4 +1,4 @@
-package guru.qa.distll;
+package guru.qa.distill;
 
 import java.io.IOException;
 import java.util.Scanner;

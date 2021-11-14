@@ -1,4 +1,4 @@
-package guru.qa.distll;
+package guru.qa.distill;
 
 public class Suite {
 
