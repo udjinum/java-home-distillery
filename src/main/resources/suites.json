@@ -1,0 +1,17 @@
+[
+  {
+  "volumeAlembic": 10,
+  "heightSideBar": 15,
+  "volumeRefrigerator": 1
+  },
+  {
+    "volumeAlembic": 20,
+    "heightSideBar": 20,
+    "volumeRefrigerator": 2
+  },
+  {
+    "volumeAlembic": 30,
+    "heightSideBar": 25,
+    "volumeRefrigerator": 3
+  }
+]
